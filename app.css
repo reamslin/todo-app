@@ -1,0 +1,10 @@
+.complete {
+    text-decoration: line-through;
+}
+
+li {
+    cursor: pointer;
+}
+button {
+    cursor: pointer;
+}
